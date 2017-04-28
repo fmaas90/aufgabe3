@@ -12,6 +12,8 @@ aktuelle Wetterparameter für Bochum von der
 mit der OWM-API interagiert werden - zunächst muss also ein API-Key kreiert
 werden.
 
+Nutze den folgenden Archetype: `org.n52:servlet3-jetty-webapp-archetype:1.0.1`
+
 ### Nutzung von Abhändigkeiten
 
 Die Aufgabe soll explizit durch die Integration einer Third-Party-Library zur
